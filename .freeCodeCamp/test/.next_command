@@ -57,3 +57,4 @@ cd ~/project
 help
 help [[ expression ]]
 help test
+./countdown.sh 5
