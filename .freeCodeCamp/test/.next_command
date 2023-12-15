@@ -42,3 +42,4 @@ man echo
 ./questionnaire.sh
 ./questionnaire.sh
 cd ~/project
+chmod +x countdown.sh
