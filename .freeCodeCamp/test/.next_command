@@ -44,3 +44,4 @@ man echo
 cd ~/project
 chmod +x countdown.sh
 which bash
+./countdown.sh
