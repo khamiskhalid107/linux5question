@@ -185,3 +185,4 @@ touch five.sh
 which bash
 ./five.sh
 clear
+./five.sh
