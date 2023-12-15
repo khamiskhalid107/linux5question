@@ -126,3 +126,4 @@ printenv
 echo $LANG
 declare -p
 echo $RANDOM
+./bingo.sh
