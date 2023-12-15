@@ -151,3 +151,4 @@ help let
 ./bingo.sh
 touch fortune.sh
 chmod +x fortune.sh
+which bash
