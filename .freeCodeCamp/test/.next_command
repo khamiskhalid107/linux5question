@@ -64,3 +64,4 @@ echo $?
 Type echo $?
 [[ 4 -ge 5 ]]
 [[ 10 -ne 5 ]]
+ls --color=auto
