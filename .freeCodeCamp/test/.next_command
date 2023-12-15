@@ -53,3 +53,4 @@ help if
 ./countdown.sh arg2
 cd ~/project
 ./countdown.sh 4
+./countdown.sh 5
