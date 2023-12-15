@@ -167,3 +167,4 @@ __vsc_prompt_cmd_original
 help until
 ./fortune.sh
 help [[ or help [[ expression ]]
+[[ hello == hello ]]
