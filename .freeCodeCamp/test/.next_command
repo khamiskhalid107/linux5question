@@ -183,3 +183,4 @@ echo $VAR
 ./fortune.sh
 touch five.sh
 which bash
+./five.sh
