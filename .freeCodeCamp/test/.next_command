@@ -187,3 +187,4 @@ which bash
 clear
 ./five.sh
 help
+help type
