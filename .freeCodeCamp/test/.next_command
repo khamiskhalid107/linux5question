@@ -168,3 +168,4 @@ help until
 ./fortune.sh
 help [[ or help [[ expression ]]
 [[ hello == hello ]]
+[[ hello == world ]]
