@@ -184,3 +184,4 @@ echo $VAR
 touch five.sh
 which bash
 ./five.sh
+clear
