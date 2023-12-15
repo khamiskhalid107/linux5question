@@ -112,3 +112,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ls --color=auto /
 ls --color=auto /bin
 man sleep
+sleep 3
